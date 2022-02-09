@@ -1,0 +1,15 @@
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\Base-comand.exe
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\Base-comand.deps.json
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\Base-comand.runtimeconfig.json
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\Base-comand.dll
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\ref\Base-comand.dll
+C:\3 УЧЕБА\repozitories\Base-comand\bin\Debug\net6.0\Base-comand.pdb
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.csproj.AssemblyReference.cache
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.AssemblyInfoInputs.cache
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.AssemblyInfo.cs
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.csproj.CoreCompileInputs.cache
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.dll
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\ref\Base-comand.dll
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.pdb
+C:\3 УЧЕБА\repozitories\Base-comand\obj\Debug\net6.0\Base-comand.genruntimeconfig.cache
