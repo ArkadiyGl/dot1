@@ -1,0 +1,15 @@
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\MartinDreer.exe
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\MartinDreer.deps.json
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\MartinDreer.runtimeconfig.json
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\MartinDreer.dll
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\ref\MartinDreer.dll
+C:\3 УЧЕБА\repozitories\MartinDreer\bin\Debug\net6.0\MartinDreer.pdb
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.csproj.AssemblyReference.cache
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.AssemblyInfoInputs.cache
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.AssemblyInfo.cs
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.csproj.CoreCompileInputs.cache
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.dll
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\ref\MartinDreer.dll
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.pdb
+C:\3 УЧЕБА\repozitories\MartinDreer\obj\Debug\net6.0\MartinDreer.genruntimeconfig.cache
