@@ -5,6 +5,11 @@
 // i++ прибавляет 1 / i+2 - каждый второй
 
 //  git push -u origin main - сохранение в гитхабе
+// рандомное число 
+int numberA = new Random().Next(1, 10); // выпадут числа от 1 до 9
+Console.WriteLine(numberA);
+
+if(username.ToLower() == маша); // ToLower - понимает заглавные буквы тоже.
 
 // breake - прерывание цикла , return - возвращение
 //             0  1  2   3   4    5
