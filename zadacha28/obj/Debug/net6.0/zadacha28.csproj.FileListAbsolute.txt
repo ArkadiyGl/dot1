@@ -1,0 +1,15 @@
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\zadacha28.exe
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\zadacha28.deps.json
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\zadacha28.runtimeconfig.json
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\zadacha28.dll
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\ref\zadacha28.dll
+C:\3 УЧЕБА\repozitories\zadacha28\bin\Debug\net6.0\zadacha28.pdb
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.csproj.AssemblyReference.cache
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.AssemblyInfoInputs.cache
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.AssemblyInfo.cs
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.csproj.CoreCompileInputs.cache
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.dll
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\ref\zadacha28.dll
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.pdb
+C:\3 УЧЕБА\repozitories\zadacha28\obj\Debug\net6.0\zadacha28.genruntimeconfig.cache
